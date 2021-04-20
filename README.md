@@ -2,7 +2,7 @@
 little plateformer made with python 3.8.5 arcade pymunk
 
 
-20th april 2021 : Gamepad support added (not firing yet)
+20th april 2021 : Gamepad support added (not firing yet) ; might need exit and re-launch
 
 ---
 Coming soon:
