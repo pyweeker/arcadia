@@ -6,3 +6,5 @@ collision with traps, item picking, door opening
 
 later: shooting enemies, ice blocks low friction physics
 later later: mechanical plateforms
+
+when i can : gamepad support
