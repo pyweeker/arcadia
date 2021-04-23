@@ -2,7 +2,7 @@
 little plateformer made with python 3.8.5 arcade pymunk
 
 23th april: collision with lava trap but no respawn yet ; trouble to detect spikes collision (far right side on the map)
-picking up items likes coins or keys will crash
+picking up items like coins or keys will crash
 ----------
 20th april 2021 : Gamepad support added (not firing yet) ; might need exit and re-launch
 
