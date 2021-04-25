@@ -1,7 +1,7 @@
 # arcadia
 little plateformer made with python 3.8.5 arcade pymunk
 
-todo : improve picking up items (coins are not same like keys) , opening closed doors, smart mechanical platform with electric handlers, level up with stairs, shooting enemies ...
+todo : opening closed doors, smart mechanical platform with electric handlers, level up with stairs, shooting enemies ...
 
 25th april: 
 yellow key is pickable, removable , and goes inside inventory which is displayed (dirty)
