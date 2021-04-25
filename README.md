@@ -4,8 +4,13 @@ little plateformer made with python 3.8.5 arcade pymunk
 todo : improve picking up items (coins are not same like keys) , opening closed doors, smart mechanical platform with electric handlers, level up with stairs, shooting enemies ...
 
 25th april: 
-picking up items and dirty display score, fixed corrupted resources path for tilemap, basic moving mechanics platforms
+yellow key is pickable, removable , and goes inside inventory which is displayed (dirty)
+--------
+keys ,locks, and doors are now belonging to objects layer inside tmx tiled files which gives handy custom properties
+--------
+picking up coins and dirty display score, fixed corrupted resources path for tilemap, basic moving mechanics platforms
 ------------
+
 23th april: 
 Easy startposition implemented , just chose it with tiled to work the tmx map file.
 collision with lava trap but NO respawn yet ; trouble to detect spikes collision (far right side on the map)
