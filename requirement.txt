@@ -1,1 +1,3 @@
 pipenv install arcade
+
+tiled software is usefull if you want to edit maps
