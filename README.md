@@ -1,10 +1,10 @@
 # arcadia
 little plateformer made with python 3.8.5 arcade pymunk
 
-todo : picking up items, opening closed doors, smart mechanical platform with electric handlers, level up with stairs, shooting enemies ...
+todo : improve picking up items (coins are not same like keys) , opening closed doors, smart mechanical platform with electric handlers, level up with stairs, shooting enemies ...
 
 25th april: 
-fixed corrupted resources path for tilemap, basic moving mechanics platforms
+picking up items and dirty display score, fixed corrupted resources path for tilemap, basic moving mechanics platforms
 ------------
 23th april: 
 Easy startposition implemented , just chose it with tiled to work the tmx map file.
