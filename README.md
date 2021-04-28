@@ -1,7 +1,7 @@
 # arcadia
 little plateformer made with python 3.8.5 arcade pymunk
 
-todo : fix unstoppable mechanics platform after launched.  level up with stairs, shooting enemies ...
+todo : clean code,fix unstoppable mechanics platform after launched.  level up with stairs, shooting enemies ...
 
 28th april: added electric mechanics platforms handlers , shoot on it with left mouse button to start moving platforms.
 -------
