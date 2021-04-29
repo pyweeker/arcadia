@@ -1,7 +1,7 @@
 # arcadia
 little plateformer made with python 3.8.5 arcade pymunk
 
-todo : clean code,  level up with stairs, shooting enemies
+todo : clean code,  level up with stairs, shooting enemies ; Problem the shoes are like climbing-irons +++ should be more slippery
 
 29th april:
 fixed ghost after death bug effect, fixed unstoppable mechanic platforms, added low friction effect on ice,more ice on the map
