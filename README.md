@@ -1,12 +1,15 @@
 # arcadia
 little plateformer made with python 3.8.5 arcade pymunk
 
-todo : clean code,fix unstoppable mechanics platform after launched.  level up with stairs, shooting enemies , slippery iced surface...
+todo : clean code,  level up with stairs, shooting enemies
+
+29th april:
+fixed ghost after death bug effect, fixed unstoppable mechanic platforms, added low friction effect on ice,more ice on the map
+------------------
 
 28th april: added electric mechanics platforms handlers , shoot on it with left mouse button to start moving platforms.
--------
 This is electric two-way. it's buggy : need 2 shot to launch , and it seems unstoppable effect yet
----------
+
 
 26th april: unlocking locks and opening doors, deadly traps, funny BUG: you become a ghost after death
 
