@@ -1,7 +1,7 @@
 # arcadia
 little plateformer made with python 3.8.5 arcade pymunk
 
-todo : clean code,  level up with stairs, shooting enemies . 
+todo : clean code,  level up with stairs, shooting enemies , fix HUD.
 
 3 may : fixed iced ground walking
 ---------
