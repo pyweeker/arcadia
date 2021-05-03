@@ -1,11 +1,14 @@
 # arcadia
 little plateformer made with python 3.8.5 arcade pymunk
 
-todo : clean code,  level up with stairs, shooting enemies ; Problem the shoes are like climbing-irons +++ should be more slippery
+todo : clean code,  level up with stairs, shooting enemies . 
+
+3 may : fixed iced ground walking
+---------
 
 29th april:
 fixed ghost after death bug effect, fixed unstoppable mechanic platforms, added low friction effect on ice,more ice on the map
-------------------
+Problem the shoes are like climbing-irons +++ should be more slippery
 
 28th april: added electric mechanics platforms handlers , shoot on it with left mouse button to start moving platforms.
 This is electric two-way. it's buggy : need 2 shot to launch , and it seems unstoppable effect yet
